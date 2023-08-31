@@ -1,31 +1,59 @@
-<h1 align="center">Hi :raised_hand_with_fingers_splayed:, I'm Daniel Zlatanov</h1>
-<h3 align="center">An enthusiastic JavaScript developer specializing in the Angular framework</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Zlatanov!;" />
+</h1>
+<h3 align="center">An enthusiastic JavaScript developer from Bulgaria 🇧🇬</h3>
 
-- :man_technologist: I’m currently expanding my skills in **JavaScript**, **TypeScript**, **Angular**, and exploring **React** for web development.
+<br/>
 
-- 🔭 I’m working on **enhancing user experiences through dynamic front-end development with Angular. Building responsive web applications and optimizing UI/UX for seamless interactions.**
+<div align="center">
+  
+👨‍💻 Currently expanding my skills in **Angular, Tailwind and exploring React.**
 
-- 🤝 I’m seeking to collaborate on **innovative web projects that leverage my skills in JavaScript, TypeScript, and Angular.**
+🤝 Seeking to collaborate on **JavaScript, TypeScript, and Angular-driven web projects.**
 
-- ⚡ Fun fact: **I've successfully completed over 100 hours of coding courses in just the past year, fueling my passion for web development!**
+⚙️ Working on enhancing **user experiences through dynamic Angular front-end development.**
 
-- 📫 Reach me by email at **danielzlatanov1@gmail.com**
+🗿 Fun fact: **Completed 200+ hours of coding courses in the past year and a half, fueling my web development passion!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+
+<br/>
+
+<p align="center">
+<a href="mailto:danielzlatanov1@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="danielzlatanov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel-zlatanov-15a18b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielzlatanov" height="30" width="40" /></a>
-<a href="https://fb.com/slayersux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="slayersux" height="30" width="40" /></a>
-<a href="https://instagram.com/satanisvarg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satanisvarg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/danielzlatanov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="danielzlatanov1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/danielzlatanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danielzlatanov" height="30" width="40" /></a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielzlatanov&show_icons=true&locale=en&layout=compact" alt="danielzlatanov" /></p>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30" width="30" /> Languages - Frameworks - Tools <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30" width="30" /></h2>
+<br/>
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=angular,javascript,typescript,nodejs,express,html,css,sass,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,firebase,netlify,vercel,postman,vscode,replit" />
+    
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielzlatanov&show_icons=true&locale=en" alt="danielzlatanov" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielzlatanov&" alt="danielzlatanov" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=danielzlatanov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+  <br>
+  
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=danielzlatanov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+<br>
+ <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=danielzlatanov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Appreciate+your+time+and+interest!+✌️;+Drop+me+a+message+on+LinkedIn!+📬;" />
+</h3>
