@@ -7,7 +7,7 @@
 
 <div align="center">
 
-⚙️ I'm all about making slick user experiences, especially with **Angular**.
+⚙️ I'm all about creating smooth user experiences, especially with **Angular**.
  
 👨‍💻 Currently expanding my skills in **Angular**, **Tailwind** and exploring **React**.
 
@@ -27,7 +27,7 @@
 
 <br/>
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30" width="30" /> Languages - Frameworks - Tools <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30" width="30" /></h2>
+<h2 align="center"><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30" width="30" /> Tech Stack & Tools <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="30" width="30" /></h2>
 <br/>
 <div align="center">
   
