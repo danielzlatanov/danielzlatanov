@@ -1,19 +1,19 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daniel+Zlatanov!;" />
 </h1>
-<h3 align="center">An enthusiastic JavaScript developer from Bulgaria 🇧🇬</h3>
+<h3 align="center">Full Stack JS Developer from Bulgaria 🇧🇬</h3>
 
 <br/>
 
 <div align="center">
-  
-👨‍💻 Currently expanding my skills in **Angular, Tailwind and exploring React.**
 
-🤝 Seeking to collaborate on **JavaScript, TypeScript, and Angular-driven web projects.**
+⚙️ I'm all about making slick user experiences, especially with **Angular**.
+ 
+👨‍💻 Currently expanding my skills in **Angular**, **Tailwind** and exploring **React**.
 
-⚙️ Working on enhancing **user experiences through dynamic Angular front-end development.**
+🤝 Let's team up on **JavaScript**, **TypeScript**, and cool **Angular** web projects.
 
-🗿 Fun fact: **Completed 200+ hours of coding courses in the past year and a half, fueling my web development passion!**
+🗿 **200+** hours of coding courses in **1.5** years – fueling my development passion!
 
 </div>
 
