@@ -21,7 +21,7 @@
 <p align="center">
     <a href="mailto:danielzlatanov1@gmail.com">
         <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="danielzlatanov-email" height="60" width="60" /></a>
-    <a href="https://linkedin.com/in/daniel-zlatanov-15a18b227" target="blank">
+    <a href="https://linkedin.com/in/dz06" target="blank">
         <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="danielzlatanov-linkedin" height="60" width="60" /></a>
       <a href="mailto:danielzlatanov1@gmail.com">
         <br/>
